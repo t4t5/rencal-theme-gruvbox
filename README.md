@@ -1,8 +1,7 @@
-# Gruvbox theme for renCal
+# renCal Gruvbox theme
 
 The [Gruvbox](https://github.com/morhetz/gruvbox) color scheme for
-[renCal](https://rencal.org), with dark and light
-variants.
+[renCal](https://rencal.org), with dark and light variants.
 
 | Gruvbox Dark | Gruvbox Light |
 | :-----------: | :------------: |
