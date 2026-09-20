@@ -1,0 +1,17 @@
+id = "t4t5.gruvbox"
+name = "Gruvbox for renCal"
+version = "1.0.0"
+description = "The retro groove Gruvbox color scheme for renCal, with dark and light variants."
+min_rencal_version = "0.8.0"
+
+[[contributes.themes]]
+id = "dark"
+name = "Gruvbox Dark"
+css = "themes/dark.css"
+appearance = "dark"
+
+[[contributes.themes]]
+id = "light"
+name = "Gruvbox Light"
+css = "themes/light.css"
+appearance = "light"
