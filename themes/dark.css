@@ -2,8 +2,8 @@
 --foreground: #ebdbb2;
 --muted-foreground: #928374;
 
---hover-tint: #ebdbb2;
---hover-mix: 8%;
+--surface-tint: #ebdbb2;
+--surface-tint-step: 8%;
 
 --primary: #fe8019;
 --primary-foreground: #282828;
