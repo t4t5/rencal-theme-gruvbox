@@ -8,9 +8,12 @@
 --primary: #fe8019;
 --primary-foreground: #282828;
 --today: #8ec07c;
+--today-foreground: #282828;
 --brand: #fabd2f;
+--brand-foreground: #282828;
 --ring: #fe8019;
 
 --success: #b8bb26;
 --warning: #fabd2f;
---error: #fb4934;
+--destructive: #fb4934;
+--destructive-foreground: #282828;

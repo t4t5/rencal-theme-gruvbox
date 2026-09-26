@@ -1,3 +1,4 @@
+/* Gruvbox's faded accents, which it uses for text on light backgrounds. */
 --background: #fbf1c7;
 --foreground: #3c3836;
 --muted-foreground: #7c6f64;
@@ -5,12 +6,15 @@
 --surface-tint: #3c3836;
 --surface-tint-step: 7%;
 
---primary: #d65d0e;
+--primary: #af3a03;
 --primary-foreground: #fbf1c7;
---today: #689d6a;
---brand: #d79921;
---ring: #d65d0e;
+--today: #427b58;
+--today-foreground: #fbf1c7;
+--brand: #b57614;
+--brand-foreground: #fbf1c7;
+--ring: #af3a03;
 
---success: #98971a;
---warning: #d79921;
---error: #cc241d;
+--success: #79740e;
+--warning: #b57614;
+--destructive: #9d0006;
+--destructive-foreground: #fbf1c7;
